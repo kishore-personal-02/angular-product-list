@@ -1,0 +1,21 @@
+.form-box {
+  padding: 5%;
+  border: 1px solid var(--primary-color);
+}
+
+.button-container button {
+  background-color: var(--primary-color);
+  color: #fff;
+}
+
+mat-card-title {
+  color: var(--primary-color);
+}
+
+.example-card {
+  box-shadow: 2px 2px 5px #000000;
+}
+
+.form-content {
+  width: 90%;
+}
